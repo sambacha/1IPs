@@ -1,9 +1,9 @@
-<!-- 1INCH -->
-<p align="center">
- <img src="https://1inch.exchange/assets/images/logo.svg" align="right" width="350">
-![1inch.exchange]()
 
 # 1inch Improvement Proposals (1IPs)
+<p align="center">
+ <img src="https://1inch.exchange/assets/images/logo.svg" align="right" width="600">
+
+
 
 [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/OneInchExchange)
 
